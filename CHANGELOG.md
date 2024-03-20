@@ -3,13 +3,12 @@
 ## v1.0.0
 
 ### Added or Changed
-- Added this changelog :)
-- Fixed typos in both templates
-- Back to top links
-- Added more "Built With" frameworks/libraries
-- Changed table of contents to start collapsed
-- Added checkboxes for major features on roadmap
+- Kicked off this changelog
+- Added the images that are needed to be as part of this project
+- Added the result set from Kaggle (this is a WIP)
+- Created a Wiki that could be helpful going forward
+- Mapped out the current state (and potential items in a Kanban board for future state)
 
 ### Removed
 
-- Some packages/libraries from acknowledgements I no longer use
+- Removed files that were not appropriate to be in this project :(
